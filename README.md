@@ -1,7 +1,7 @@
 # RealTime-Hand-Face-Detection
 # CS50P Final Project
 
-[![YouTube Video Link](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=JSRrC0tUrPo&t=50s)
+[![YouTube Video Link](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=JSRrC0tUrPo&t=3s)
 
 ## Description
 
